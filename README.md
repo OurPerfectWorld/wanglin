@@ -1,2 +1,2 @@
 # Learning By Doing
-* technology summary about working and studying
+* Technology Summary About Working And Studying
